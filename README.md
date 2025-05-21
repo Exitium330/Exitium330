@@ -9,8 +9,6 @@ Saurabh</a></h1>
 
 - 🌱 I’m currently learning 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 📫 How to reach me **raulandresvelezcano@gmail.com**
 
 <br/>
