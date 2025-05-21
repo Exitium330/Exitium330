@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Exitium 
-<h3 align="center">A passionate developer from Medellín, Colombia &#127470;&#127475</h3>
+<h3 align="center">A passionate developer from Medellín, Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
