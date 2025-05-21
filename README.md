@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Exitium330
-- 👀 I’m interested in Videogames
+- 👀 I’m interested in Videogames and history
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
