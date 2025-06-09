@@ -9,7 +9,7 @@
 - 🌱 Aprendiendo constantemente
    
 
-- 📫 How to reach me **raulandresvelezcano@gmail.com**
+- 📫 Contacto:  **raulandresvelezcano@gmail.com**
 
 <br/>
 
