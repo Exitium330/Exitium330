@@ -1,66 +1,63 @@
-<!-- Banner / Hero --------------------------------------------------------->
 <p align="center">
-  <!-- Cambia la URL por un banner tuyo (por ejemplo, hecho en Canva) -->
-  <img src="https://placehold.co/1200x200/0077b6/ffffff?text=Hola,+soy+Raúl+🚀" alt="Banner de Raúl">
+  <img src="https://raw.githubusercontent.com/Exitium330/Exitium330/main/banner.gif" alt="Banner de bienvenida animado con temática futurista y el nombre Exitium330">
 </p>
 
-<h1 align="center">¡Hey, soy Raúl! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block;">¡Hola, soy Raúl! 👋 Bienvenido a mi Fortaleza Digital</h1></summary>
+  </ul>
+</div>
+
 <p align="center">
-  Desarrollador en formación | Amante de la historia, los aviones y el código ✈️<br>
-  Medellín, Colombia 🇨🇴
-</p>
-
-<!-- Badges de redes ------------------------------------------------------->
-<p align="center">
-  <a href="https://github.com/Exitium330"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raulandresvelezcano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 🧠 Sobre mí
-- 🔭 Actualmente trabajando en: **Sistema de préstamos - SENA**  
-- 🌱 Aprendiendo **React, Tailwind CSS** y buen café ☕  
-- 💬 Pregúntame sobre aviación, *War Thunder* o cómo sobrevivir al frío de las 5 a. m.  
-- ⚡ Fun fact: Me inspiro con **Imagine Dragons** y el *solo* de “Hotel California”.
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-</p>
-
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com/?user=tuusuario&theme=radical" alt="GitHub Streak"/>
-</p>
-
-## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| **Sistema de Préstamos SENA** | Gestiona préstamos de equipos en ambientes formativos. | PHP · MySQL · JS | [Repo](https://github.com/Exitium330/Almacen) |
-
-## 🌐 Contacto
-<p align="center">
-  <a href="mailto:raulandresvelezcano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/573001234567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <br>
+  Soy <b>Raúl Andrés Vélez Cano</b> (alias <b>Exitium330</b>), un apasionado desarrollador de software en formación desde Colombia 🇨🇴. Actualmente estoy forjando mis habilidades en el <b>SENA</b>, con la mira puesta en convertirme en un desarrollador Junior de alto impacto.
+  <br>
+  <br>
+  Mi objetivo es simple: <b>transformar ideas complejas en código elegante y funcional</b>.
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Exitium330&label=VISITANTES+DEL+PERFIL&color=0e75b6&style=flat" alt="Contador de visitas del perfil" />
 </p>
 
 ---
 
+<h2 align="center">🛠️ Mi Arsenal de Tecnologías</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exitium330&label=Profile+views" alt="Profile Views"/>
+  <i>Constantemente sumando nuevas armas a mi arsenal para los desafíos del mañana.</i>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-<!-- Footer --------------------------------------------------------------->
-<p align="center"><sub>Hecho con ❤️ y café antioqueño • © 2025 Raúl</sub></p>
+---
 
+<h2 align="center">📊 Mis Estadísticas en el Campo de Batalla</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exitium330&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub de Exitium330" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exitium330&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes más usados por Exitium330" />
+</p>
+
+---
+
+<h2 align="center">🛰️ Conéctate Conmigo</h2>
+<p align="center">
+  <i>Siempre abierto a colaborar en proyectos innovadores y a conectar con otros apasionados de la tecnología.</i>
+  <br>
+  <br>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tu-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+<p align="center">
+  <small><b>Creado con pasión y cafeína por Exitium330 © 2024</b></small>
+</p>
