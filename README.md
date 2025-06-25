@@ -52,7 +52,7 @@
   <i>Siempre abierto a colaborar en proyectos innovadores y a conectar con otros apasionados de la tecnología.</i>
   <br>
   <br>
-  <a href="mailto:tu-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:raulandresvelezcano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <p align="center">
