@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Exitium330/Exitium330/main/Banner.jpg" alt="Banner de bienvenida - Hola, soy Raúl">
+  <img src="https://github.com/Exitium330/Exitium330/blob/main/Banner.png?raw=true" alt="Banner de bienvenida - Hola, soy Raúl">
 </p>
 
 <div id="user-content-toc">
