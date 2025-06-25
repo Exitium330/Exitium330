@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Exitium330/Exitium330/blob/main/Banner_2.png?raw=true" alt="Banner de bienvenida - Hola, soy Raúl">
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block;">¡Hola, soy Raúl! 👋 Bienvenido a mi Fortaleza Digital</h1></summary>
