@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Exitium330&label=VISITANTES+DEL+PERFIL&color=0e75b6&style=flat" alt="Contador de visitas del perfil" />
 </p>
 
+https://exitium330.github.io/Portafolio/
 ---
 
 <h2 align="center">🛠️ Mi Arsenal de Tecnologías</h2>
@@ -53,7 +54,6 @@
 
 </p>
 
-https://exitium330.github.io/Portafolio/
 
 <p align="center">
   <small><b>Creado con pasión y cafeína por Exitium330 © 2025</b></small>
