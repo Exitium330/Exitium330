@@ -32,15 +32,6 @@
 </p>
 
 ---
-
-<h2 align="center">📊 Mis Estadísticas en el Campo</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exitium330&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub de Exitium330" />
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exitium330&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes más usados por Exitium330" />
-</p>
-
 ---
 
 <h2 align="center">🛰️ Conéctate Conmigo</h2>
