@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-  Soy <b>Raúl Andrés Vélez Cano</b> (alias <b>Exitium330</b>), un apasionado desarrollador de software en formación desde Colombia 🇨🇴. Actualmente estoy forjando mis habilidades en el <b>SENA</b>, con la mira puesta en convertirme en un desarrollador Junior de alto impacto.
+  Soy <b>Raúl Andrés Vélez Cano</b> (alias <b>Exitium330</b>), un apasionado desarrollador de software colombiano 🇨🇴. Actualmente soy técnico en programación de software, certificado por el <b>SENA</b>, con la mira puesta en convertirme en un desarrollador Junior de alto impacto.
   <br>
   <br>
   Mi objetivo es simple: <b>transformar ideas complejas en código elegante y funcional</b>.
